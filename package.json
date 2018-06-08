@@ -1,0 +1,12 @@
+{
+  "name": "video-engineering",
+  "version": "0.0.1",
+  "description": "video engineering ops s3 bucket performance issue",
+  "author": "Iflix Team",
+  "license": "Proprietary, All rights reserved",
+  "dependencies": {
+    "async": "^2.6.0",
+    "aws-sdk": "^2.241.1",
+    "fs": "0.0.1-security"
+  }
+}
